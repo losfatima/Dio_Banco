@@ -1,0 +1,13 @@
+D:\Bootcam MRV\dio.banco\bin\Debug\netcoreapp3.1\Dio.Banco.exe
+D:\Bootcam MRV\dio.banco\bin\Debug\netcoreapp3.1\Dio.Banco.deps.json
+D:\Bootcam MRV\dio.banco\bin\Debug\netcoreapp3.1\Dio.Banco.runtimeconfig.json
+D:\Bootcam MRV\dio.banco\bin\Debug\netcoreapp3.1\Dio.Banco.runtimeconfig.dev.json
+D:\Bootcam MRV\dio.banco\bin\Debug\netcoreapp3.1\Dio.Banco.dll
+D:\Bootcam MRV\dio.banco\bin\Debug\netcoreapp3.1\Dio.Banco.pdb
+D:\Bootcam MRV\dio.banco\obj\Debug\netcoreapp3.1\Dio.Banco.csprojAssemblyReference.cache
+D:\Bootcam MRV\dio.banco\obj\Debug\netcoreapp3.1\Dio.Banco.AssemblyInfoInputs.cache
+D:\Bootcam MRV\dio.banco\obj\Debug\netcoreapp3.1\Dio.Banco.AssemblyInfo.cs
+D:\Bootcam MRV\dio.banco\obj\Debug\netcoreapp3.1\Dio.Banco.csproj.CoreCompileInputs.cache
+D:\Bootcam MRV\dio.banco\obj\Debug\netcoreapp3.1\Dio.Banco.dll
+D:\Bootcam MRV\dio.banco\obj\Debug\netcoreapp3.1\Dio.Banco.pdb
+D:\Bootcam MRV\dio.banco\obj\Debug\netcoreapp3.1\Dio.Banco.genruntimeconfig.cache
